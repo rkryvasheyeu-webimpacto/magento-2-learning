@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/magento2/vendor/msp/recaptcha/view/frontend/web/js/registry.js
